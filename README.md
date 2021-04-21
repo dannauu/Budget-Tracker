@@ -18,7 +18,7 @@ Before running the application user must perform "npm install" to install all re
 ## Usage
 [Deployed App](https://nameless-plateau-48028.herokuapp.com/)
 ### Application in use below
-![](/assets/img/App-Gif.gif)
+![](/public/assets/img/App-Gif.gif)
 
 ## License
 
